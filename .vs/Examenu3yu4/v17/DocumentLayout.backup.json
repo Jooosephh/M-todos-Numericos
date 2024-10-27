@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Examenu3yu4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|c:\\users\\user\\documents\\metodos numericos p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|C:\\Users\\User\\Downloads\\Examenu3yu4\\examenu3yu4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|solutionrelative:examenu3yu4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|c:\\users\\user\\downloads\\examen 3,4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|c:\\users\\user\\documents\\metodos numericos p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|C:\\Users\\User\\Downloads\\Examenu3yu4\\examenu3yu4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|solutionrelative:examenu3yu4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBB038A-CC12-4C17-AF99-0A89540F7371}|Examenu3yu4\\Examenu3yu4.csproj|c:\\users\\user\\downloads\\examen 3,4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Examenu3yu4\\Examenu3yu4\\Form3.cs",
+              "RelativeDocumentMoniker": "Examenu3yu4\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Examenu3yu4\\Examenu3yu4\\Form3.cs",
+              "RelativeToolTip": "Examenu3yu4\\Form3.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:47:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "examen 3,4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\examen 3,4.cs",
+              "RelativeDocumentMoniker": "..\\examen 3,4.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\examen 3,4.cs",
+              "RelativeToolTip": "..\\examen 3,4.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:25:57.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "metodos numericos p.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\metodos numericos p.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\metodos numericos p.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\metodos numericos p.cs",
+              "RelativeToolTip": "..\\..\\Documents\\metodos numericos p.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:14:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Examenu3yu4\\Examenu3yu4\\Form3.cs",
+              "RelativeDocumentMoniker": "Examenu3yu4\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Examenu3yu4\\Examenu3yu4\\Form3.cs [Design]",
+              "RelativeToolTip": "Examenu3yu4\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:18:43.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "examen 3,4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\examen 3,4.cs",
+              "RelativeDocumentMoniker": "..\\examen 3,4.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\examen 3,4.cs [Design]",
+              "RelativeToolTip": "..\\examen 3,4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:15:13.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "metodos numericos p.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\metodos numericos p.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\metodos numericos p.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\metodos numericos p.cs [Design]",
+              "RelativeToolTip": "..\\..\\Documents\\metodos numericos p.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:09:03.262Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
